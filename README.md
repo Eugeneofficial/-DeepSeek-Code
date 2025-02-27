@@ -31,8 +31,6 @@
 ## Contributing
 Contributions and issues are welcome! Check the [Issues page](https://github.com/Eugeneofficial/-DeepSeek-Code/issues).
 
-## License
-MIT License - see the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 - DeepSeek team, Ollama team, LangChain team.
