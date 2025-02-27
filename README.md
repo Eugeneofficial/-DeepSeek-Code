@@ -1,6 +1,6 @@
 # DeepSeek Code Companion 2025
 
-🚀 **DeepSeek Code Companion** is an AI-powered coding assistant that runs locally on your machine. Built with Gradio, LangChain, and powered by the DeepSeek-r1 language model via Ollama, it offers intelligent coding assistance, debugging help, and model management. Assembled by Abramov.
+🚀 **DeepSeek Code Companion** is an AI-powered coding assistant that runs locally on your machine. Built with Gradio, LangChain, and powered by the DeepSeek-r1 language model via Ollama, it offers intelligent coding assistance, debugging help, and model management. Assembled by Eugeneofficial.
 
 ## Features
 - 🐍 **Python Expertise**: Code completion, bug fixing, best practices, and performance tips.
@@ -78,4 +78,4 @@ MIT License - see the [LICENSE](LICENSE) file.
 
 ## Благодарности
 - Команды DeepSeek, Ollama, LangChain.
-- **Собрано Abramov**.
+- **Собрано Eugeneofficial**.
